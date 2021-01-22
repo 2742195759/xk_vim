@@ -1,0 +1,1514 @@
+# 这个 viminfo 文件是由 Vim 7.4 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~Msle0~/\<target_link_libraries\>
+
+# 最后替换的字符串
+$
+
+# 命令行 历史记录 (从新到旧)：
+:q
+:w
+:Helloworld
+:YcmCompleter GetDoc
+:YcmCompleter
+:YcmRestartServer
+:set ts=4
+:set mouse-=a
+:set mouse=-a
+:help let
+:help youcompleteme
+:BundleInstall
+:Q
+:tabprevious
+:taglist
+::q
+:noremap <RIGHT> <Esc>:tabnext<CR>
+:noremap <RIGHT> iyes<CR>
+:noremap <UP> iyes<CR>
+:noremap <C> iyes<CR>
+:noremap <C><Tab> iyes<CR>
+:noremap <C><Tab> iyes
+:noremap <T-l> <Esc>:tabnex:qt<CR> 
+:noremap <T-l> <Esc>:tabnext<CR> 
+:gt
+:noremap <C-l> <Esc>:tabnext<CR> 
+:noremap <C-@> <Esc>:tabnext<CR> 
+:noremap <C-0> <Esc>:tabnext<CR> 
+:noremap <C-space> <Esc>:tabnext<CR> 
+:noremap <C-i> <Esc>:tabnext<CR> 
+:noremap <C-)> <Esc>:tabnext<CR> 
+:noremap <C-Tab> <Esc>:tabnext<CR> 
+:noremap <C><Tab> <Esc>:tabnext<CR> 
+:noremap <C-Tab> <Esc>:tabnext<CR>
+:tabnext
+:map
+:noremap <C-Tab> <Ese>:tabnext<CR>
+:verbose map
+:help user_manual
+:help user_manual.txt
+:help user-manual.txt
+:help usr-manual.txt
+:help usr-manual
+:help vim
+:help vi
+:help vim.txt
+:help vimtutor
+:map Tab <Ese>tabnext<CR>i
+:map <Tab> <Ese>tabnext<CR>i
+:map <Tab> <Ese>:tagnexti
+
+# 查找字符串 历史记录 (从新到旧)：
+?/GetCmake
+?/GetCmakeArgs
+?/uu
+?/cmake
+?/help
+? \<target_link_libraries\>
+?/imshow
+?/print
+?/cout
+?/__XK_DEBUG
+?/XK_DEBUG
+?/XK——DEBUG
+?/binary
+?/source
+?/extend
+?/mix
+?/first_and
+?/Block
+?/ins
+?/inst	
+?/filter
+?/src_binary
+?/mixup
+??\a
+? @$
+?/#
+?/Open
+?/open
+?/install
+?/global
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+"0	CHAR	0
+	if(i == 2 && ans[2].reserve == 0 && ans[1].reserve != 0) tmp = & ans[1] ; 
+	       			rectangle(src , Point(tmp->left , tmp->up) , Point(tmp->right , tmp->down) , Scalar(255,0,0) , 2) ;
+				c
+""1	LINE	0
+	}
+"2	LINE	0
+	
+"3	LINE	0
+		double tmp = 0 ; 
+"4	LINE	0
+	int main(){
+"5	LINE	0
+	
+"6	LINE	0
+	
+"7	LINE	0
+	
+"8	LINE	0
+	command NERDTreeCWD
+"9	LINE	0
+	
+"-	CHAR	0
+	{
+
+# 文件标记:
+'0  12  0  ~/.vimrc
+'1  8  29  ~/vim_setup.sh
+'2  1  0  ~/.vim_setup
+'3  19  0  ~/.vimrc
+'4  4  0  ~/NERD_tree_1
+'5  35  25  ~/.vimrc
+'6  10  0  ~/opencvSample/src/startTest.cpp
+'7  1  0  ~/opencvSample/src/startTest.cpp
+'8  37  39  ~/opencvSample/src/startTest.cpp
+'9  5  21  ~/opencvSample/src/startTest.cpp
+
+# 跳转列表 (从新到旧):
+-'  12  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  8  29  ~/vim_setup.sh
+-'  1  0  ~/vim_setup.sh
+-'  1  0  ~/.vim_setup
+-'  19  0  ~/.vimrc
+-'  4  0  ~/NERD_tree_1
+-'  26  2  ~/NERD_tree_1
+-'  1  0  ~/NERD_tree_1
+-'  3  0  ~/__Tag_List__
+-'  2  0  ~/__Tag_List__
+-'  52  0  ~/.vimrc
+-'  35  25  ~/.vimrc
+-'  10  0  ~/opencvSample/src/startTest.cpp
+-'  1  0  ~/opencvSample/src/startTest.cpp
+-'  37  39  ~/opencvSample/src/startTest.cpp
+-'  5  21  ~/opencvSample/src/startTest.cpp
+-'  35  31  ~/opencvSample/src/startTest.cpp
+-'  45  24  ~/opencvSample/src/startTest.cpp
+-'  40  0  ~/.vimrc
+-'  11  2  ~/.vimrc
+-'  7  0  ~/.vimrc
+-'  57  0  ~/.vimrc
+-'  32  15  ~/.vimrc
+-'  56  13  ~/.vimrc
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+-'  1  2  ~/opencvSample/NERD_tree_1
+-'  1  0  ~/opencvSample/README
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/.vimrc
+	"	12	0
+	^	52	0
+	.	52	0
+	+	33	0
+	+	36	0
+	+	37	17
+	+	39	5
+	+	36	0
+	+	13	0
+	+	1	16
+	+	51	19
+	+	51	1
+	+	51	0
+	+	45	48
+	+	23	0
+	+	40	0
+	+	49	0
+	+	47	30
+	+	5	22
+	+	6	11
+	+	6	15
+	+	13	43
+	+	6	12
+	+	13	0
+	+	6	0
+	+	13	8
+	+	13	0
+	+	6	0
+	+	6	47
+	+	7	18
+	+	7	70
+	+	9	40
+	+	10	7
+	+	11	41
+	+	53	0
+	+	53	0
+	+	53	19
+	+	54	33
+	+	55	35
+	+	57	22
+	+	57	44
+	+	11	5
+	+	57	21
+	+	57	22
+	+	57	0
+	+	57	11
+	+	15	0
+	+	57	0
+	+	54	13
+	+	56	19
+	+	2	0
+	+	56	0
+	+	1	0
+	+	56	12
+	+	1	0
+	+	56	13
+	+	12	8
+	+	57	0
+	+	57	0
+	+	35	24
+	+	42	7
+	+	53	0
+	+	54	0
+	+	52	0
+
+> ~/vim_setup.sh
+	"	8	29
+	^	9	0
+	.	8	30
+	+	10	11
+	+	10	0
+	+	10	0
+	+	10	0
+	+	2	20
+	+	5	14
+	+	4	14
+	+	5	5
+	+	4	5
+	+	3	5
+	+	2	5
+	+	8	30
+
+> ~/.vim_setup
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/__Tag_List__
+	"	3	0
+	.	4	0
+	+	49	0
+	+	46	0
+	+	43	0
+	+	40	0
+	+	37	0
+	+	34	0
+	+	31	0
+	+	28	0
+	+	25	0
+	+	22	0
+	+	19	0
+	+	16	0
+	+	13	0
+	+	11	0
+	+	10	0
+	+	7	0
+	+	4	0
+
+> ~/NERD_tree_1
+	"	4	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/opencvSample/src/startTest.cpp
+	"	10	0
+	^	10	0
+	.	10	0
+	+	17	17
+	+	22	18
+	+	18	21
+	+	11	0
+	+	6	0
+	+	5	0
+	+	5	0
+	+	35	0
+	+	5	0
+	+	6	0
+	+	7	12
+	+	8	8
+	+	11	12
+	+	11	3
+	+	11	0
+	+	10	0
+
+> ~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/BoostParts/boost/python/detail/wrap_python.hpp
+	"	51	20
+
+> ~/.vim/bundle/YouCompleteMe/third_party/ycmd/build.py
+	"	540	0
+	^	314	51
+	.	540	0
+	+	539	0
+	+	540	0
+	+	541	0
+	+	540	0
+	+	322	2
+	+	324	1
+	+	324	0
+	+	323	20
+	+	540	0
+
+> ~/.vim/bundle/YouCompleteMe/doc/tags
+	"	56	0
+
+> ~/.vim/bundle/YouCompleteMe/doc/youcompleteme.txt
+	"	1006	78
+
+> /usr/share/vim/vim74/doc/eval.txt
+	"	8149	9
+
+> /tmp/tutor9sfEY2
+	"	597	2
+	^	425	4
+	.	425	4
+	+	402	0
+	+	425	4
+
+> ~/opencvSample/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/opencvSample/README
+	"	1	0
+	^	10	34
+	.	10	33
+	+	7	46
+	+	7	12
+	+	1	19
+	+	2	9
+	+	7	156
+	+	7	26
+	+	7	177
+	+	5	47
+	+	10	33
+
+> ~/opencvSample/CMakeLists.txt
+	"	1	0
+	.	38	0
+	+	8	35
+	+	32	0
+	+	8	22
+	+	9	30
+	+	15	2
+	+	19	32
+	+	23	0
+	+	23	1
+	+	19	28
+	+	23	8
+	+	16	22
+	+	18	0
+	+	17	0
+	+	12	74
+	+	15	0
+	+	15	2
+	+	16	0
+	+	14	11
+	+	17	11
+	+	23	0
+	+	20	13
+	+	22	10
+	+	13	0
+	+	11	25
+	+	24	26
+	+	25	13
+	+	32	0
+	+	32	0
+	+	31	9
+	+	7	20
+	+	7	48
+	+	31	11
+	+	31	1
+	+	31	8
+	+	15	0
+	+	31	0
+	+	7	0
+	+	7	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	8	0
+	+	9	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	22	0
+	+	23	0
+	+	25	8
+	+	7	52
+	+	7	0
+	+	11	27
+	+	4	52
+	+	5	30
+	+	11	48
+	+	3	44
+	+	11	88
+	+	24	22
+	+	5	37
+	+	12	0
+	+	9	32
+	+	11	0
+	+	10	23
+	+	29	9
+	+	30	0
+	+	26	30
+	+	4	0
+	+	5	0
+	+	11	0
+	+	12	0
+	+	34	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	7	0
+	+	27	0
+	+	21	0
+	+	8	33
+	+	9	26
+	+	10	28
+	+	9	24
+	+	8	30
+	+	10	26
+	+	8	11
+	+	9	14
+	+	10	27
+	+	6	38
+	+	8	56
+	+	9	36
+	+	38	0
+	a	5	29
+
+> ~/opencvSample/build_linux.sh
+	"	2	3
+	.	7	0
+	+	1	10
+	+	7	4
+	+	4	0
+	+	2	9
+	+	3	0
+	+	1	3
+	+	7	4
+	+	7	9
+	+	7	9
+	+	7	0
+	+	7	0
+	+	7	9
+	+	7	0
+	+	7	0
+	+	7	9
+	+	7	0
+	+	7	0
+
+> ~/opencvSample/NERD_tree_2
+	"	3	10
+	.	1	0
+	+	1	0
+
+> ~/opencvSample/LICENCE
+	"	1	28
+	^	1	7
+	.	1	0
+	+	1	0
+
+> ~/.vim/bundle/taglist.vim/doc/taglist.txt
+	"	7	0
+
+> ~/.vim/bundle/neocomplete.vim/doc/neocomplete.txt
+	"	228	15
+
+> /usr/share/vim/vim74/doc/indent.txt
+	"	23	39
+
+> /usr/share/vim/vim74/doc/options.txt
+	"	8371	1
+
+> /usr/share/vim/vim74/doc/workshop.txt
+	"	7	31
+
+> /usr/share/vim/vim74/doc/insert.txt
+	"	1778	9
+
+> /usr/share/vim/vim74/doc/usr_01.txt
+	"	190	49
+
+> /usr/share/vim/vim74/doc/intro.txt
+	"	269	12
+
+> ~/python_code/num.py
+	"	5	20
+	^	5	21
+	.	5	20
+	+	1	14
+	+	5	22
+	+	1	20
+	+	1	21
+	+	3	19
+	+	5	1
+	+	6	6
+	+	5	20
+
+> ~/testCpp.cpp
+	"	1	0
+	^	5	1
+	.	5	1
+	+	1	18
+	+	4	11
+	+	5	2
+	+	5	8
+	+	5	3
+	+	2	17
+	+	5	4
+	+	3	21
+	+	5	1
+
+> ~/vim_plugin/yes
+	"	1	0
+	^	1	0
+
+> ~/opencvSample/src/example.cpp
+	"	1	0
+
+> ~/opencvSample/src/detectText/detectText.cpp
+	"	1	0
+
+> ~/opencvSample/src/detectText/detectText.h
+	"	1	0
+	^	7	1
+	.	7	1
+	+	7	1
+
+> /usr/share/vim/vim74/doc/change.txt
+	"	1652	12
+
+> ~/NERD_tree_2
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/NERD_tree_3
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.vim/bundle/molokai/README.md
+	"	24	0
+	.	25	0
+	+	7	0
+	+	25	18
+	+	25	0
+	+	25	0
+
+> ~/.vim/bundle/molokai/colors/molokai.vim
+	"	72	0
+
+> ~/[Vundle] Installer
+	"	7	0
+	.	1	0
+	+	1	0
+
+> ~/.vim/bundle/nerdtree/doc/NERDTree.txt
+	"	97	0
+
+> /usr/share/vim/vim74/doc/map.txt
+	"	511	6
+
+> /tmp/vpzXxa8/4
+	"	21	0
+
+> ~/EasyPR/CMakeLists.txt
+	"	1	0
+
+> ~/EasyPR/ChangeLog.md
+	"	1	0
+
+> ~/opencvSample/.gitignore
+	"	5	9
+	^	5	10
+	.	5	9
+	+	6	16
+	+	2	7
+	+	6	17
+	+	7	0
+	+	5	9
+
+> /tmp/vjAm2zZ/4
+	"	8	0
+
+> /tmp/tutori0WPTz
+	"	78	41
+	^	786	1
+	.	78	0
+	+	78	41
+	+	80	23
+	+	122	56
+	+	213	0
+	+	212	0
+	+	261	0
+	+	378	0
+	+	388	0
+	+	396	0
+	+	855	0
+	+	789	0
+	+	377	0
+	+	717	0
+	+	78	0
+
+> /usr/share/vim/vim74/doc/usr_toc.txt
+	"	28	32
+
+> /usr/share/vim/usr
+	"	1	0
+
+> ~/.vim/plugin/Helloworld.vim
+	"	3	0
+
+> ~/.vim/plugin/Helloworld
+	"	1	0
+
+> ~/.vim/plugin
+	"	1	0
+
+> ~/vim_plugin/hello_world.vim
+	"	5	45
+	^	5	46
+	.	5	45
+	+	2	19
+	+	6	0
+	+	5	45
+
+> ~/vim_plugin/hello_world
+	"	1	0
+	.	1	0
+	+	1	2
+	+	1	0
+
+> ~/vim_plugin
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> /num.py
+	"	1	0
+
+> ~/opencvSample/cscope.out
+	"	91	0
+
+> ~/opencvSample/bin/startTest
+	"	1	0
+
+> ~/opencvSample/src/opencv.cpp
+	"	27	1
+	^	27	2
+	.	27	1
+	+	27	1
+
+> ~/opencvSample/build.sh
+	"	1	0
+
+> ~/opencvSample/gitignore
+	"	3	0
+	^	3	0
+	.	2	7
+	+	8	0
+	+	6	7
+	+	2	7
+
+> ~/opencvSample/opencv.cpp
+	"	393	20
+	^	395	38
+	.	395	38
+	+	397	0
+	+	398	1
+	+	431	2
+	+	432	2
+	+	397	5
+	+	398	0
+	+	398	0
+	+	324	0
+	+	398	0
+	+	406	78
+	+	398	57
+	+	334	0
+	+	29	1
+	+	334	0
+	+	29	0
+	+	344	0
+	+	355	0
+	+	347	14
+	+	351	32
+	+	316	187
+	+	350	24
+	+	351	73
+	+	353	3
+	+	343	17
+	+	316	150
+	+	353	4
+	+	343	8
+	+	343	14
+	+	343	7
+	+	316	0
+	+	362	0
+	+	363	0
+	+	362	0
+	+	353	4
+	+	343	0
+	+	353	11
+	+	316	183
+	+	316	73
+	+	353	18
+	+	352	77
+	+	353	24
+	+	352	14
+	+	353	24
+	+	393	0
+	+	393	0
+	+	398	0
+	+	397	54
+	+	316	176
+	+	397	47
+	+	398	2
+	+	316	142
+	+	397	43
+	+	352	70
+	+	29	1
+	+	262	0
+	+	333	0
+	+	368	0
+	+	601	13
+	+	601	18
+	+	602	6
+	+	602	17
+	+	605	6
+	+	154	0
+	+	455	76
+	+	458	0
+	+	449	31
+	+	451	33
+	+	451	32
+	+	451	0
+	+	450	1
+	+	451	8
+	+	451	0
+	+	450	0
+	+	451	0
+	+	450	22
+	+	451	0
+	+	29	0
+	+	27	2
+	+	26	57
+	+	28	0
+	+	27	2
+	+	574	211
+	+	601	0
+	+	600	21
+	+	601	1
+	+	600	20
+	+	602	0
+	+	605	0
+	+	605	0
+	+	602	0
+	+	600	19
+	+	570	26
+	+	571	40
+	+	574	194
+	+	27	0
+	+	431	1
+	+	432	1
+	+	394	19
+	+	396	5
+	+	395	38
+	q	206	21
+
+> ~/opencvSample/opencv
+	"	1	0
+
+> ~/opencvSample/detectText.h
+	"	67	0
+	^	27	12
+	.	67	0
+	+	68	24
+	+	64	36
+	+	63	1
+	+	32	0
+	+	61	21
+	+	61	21
+	+	32	0
+	+	61	21
+	+	61	21
+	+	36	0
+	+	32	133
+	+	32	133
+	+	36	153
+	+	44	0
+	+	35	14
+	+	44	21
+	+	45	0
+	+	32	2
+	+	36	3
+	+	46	2
+	+	32	3
+	+	36	3
+	+	48	162
+	+	51	3
+	+	34	0
+	+	43	0
+	+	49	15
+	+	55	21
+	+	59	103
+	+	61	23
+	+	61	20
+	+	61	21
+	+	35	14
+	+	61	21
+	+	61	21
+	+	63	0
+	+	41	2
+	+	38	168
+	+	39	14
+	+	64	152
+	+	44	0
+	+	54	27
+	+	60	30
+	+	54	30
+	+	64	196
+	+	68	41
+	+	68	214
+	+	68	0
+	+	65	0
+	+	65	0
+	+	65	0
+	+	68	0
+	+	68	40
+	+	64	195
+	+	68	208
+	+	68	0
+	+	64	177
+	+	68	189
+	+	47	7
+	+	64	11
+	+	68	11
+	+	64	1
+	+	10	16
+	+	11	0
+	+	11	0
+	+	12	0
+	+	14	14
+	+	14	3
+	+	1	15
+	+	4	0
+	+	1	14
+	+	2	0
+	+	2	3
+	+	2	25
+	+	14	0
+	+	14	14
+	+	2	0
+	+	68	1
+	+	64	0
+	+	14	0
+	+	23	0
+	+	21	3
+	+	21	0
+	+	19	0
+	+	18	33
+	+	20	0
+	+	19	22
+	+	21	0
+	+	20	17
+	+	64	230
+	+	17	25
+	+	64	257
+	+	28	0
+	+	24	3
+	+	26	0
+	+	24	18
+	+	27	6
+	+	64	232
+	+	27	11
+	+	67	0
+
+> ~/opencvSample/startTest.cpp
+	"	16	17
+	^	16	18
+	.	16	15
+	+	17	19
+	+	28	1
+	+	20	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	27	0
+	+	17	12
+	+	17	0
+	+	17	0
+	+	12	18
+	+	25	51
+	+	19	26
+	+	26	34
+	+	25	34
+	+	26	51
+	+	29	7
+	+	31	18
+	+	31	32
+	+	33	42
+	+	34	43
+	+	35	46
+	+	36	35
+	+	40	94
+	+	43	3
+	+	19	62
+	+	19	0
+	+	14	0
+	+	43	0
+	+	40	92
+	+	40	6
+	+	40	97
+	+	8	47
+	+	8	69
+	+	9	16
+	+	40	100
+	+	41	32
+	+	40	99
+	+	41	49
+	+	43	0
+	+	45	0
+	+	44	38
+	+	41	40
+	+	44	39
+	+	47	0
+	+	47	0
+	+	25	23
+	+	26	23
+	+	22	37
+	+	22	28
+	+	22	29
+	+	32	64
+	+	22	23
+	+	33	29
+	+	22	18
+	+	32	59
+	+	4	15
+	+	22	38
+	+	32	74
+	+	22	33
+	+	32	77
+	+	32	40
+	+	33	27
+	+	22	0
+	+	21	26
+	+	23	35
+	+	19	30
+	+	14	20
+	+	13	29
+	+	19	46
+	+	13	10
+	+	14	14
+	+	19	0
+	+	18	0
+	+	23	0
+	+	25	14
+	+	26	19
+	+	38	10
+	+	37	15
+	+	38	15
+	+	30	14
+	+	25	15
+	+	26	15
+	+	40	52
+	+	8	8
+	+	40	53
+	+	40	41
+	+	39	32
+	+	40	0
+	+	8	0
+	+	8	0
+	+	8	0
+	+	8	0
+	+	7	0
+	+	8	0
+	+	7	0
+	+	8	0
+	+	7	0
+	+	16	15
+	a	11	24
+
+> ~/opencvSample/main.cpp
+	"	5	32
+	^	5	33
+	.	5	32
+	+	1	23
+	+	3	12
+	+	7	0
+	+	3	31
+	+	7	33
+	+	8	25
+	+	10	11
+	+	8	44
+	+	9	37
+	+	3	19
+	+	3	0
+	+	2	0
+	+	3	0
+	+	7	34
+	+	6	0
+	+	7	0
+	+	5	32
+
+> ~/opencvSample/example.c
+	"	1	0
+
+> ~/opencvSample/example
+	"	2	0
+
+> ~/opencvSample/startTest
+	"	1	0
+
+> ~/opencvSample/test.cpp
+	"	1	0
+	.	1	0
+	+	1	2
+	+	1	0
+
+> ~/opencvSample/word_pic_getter/non_word_pic_getter.cpp
+	"	7	2
+	^	11	3
+	.	11	2
+	+	1	29
+	+	5	11
+	+	6	22
+	+	6	69
+	+	6	69
+	+	8	25
+	+	9	0
+	+	11	0
+	+	4	0
+	+	2	15
+	+	9	2
+	+	7	23
+	+	9	23
+	+	9	17
+	+	9	22
+	+	7	29
+	+	10	0
+	+	9	25
+	+	10	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	11	2
+
+> ~/桌面/opencv-master/modules/cudev/CMakeLists.txt
+	"	25	5
+
+> ~/下载/bzip2-1.0.6/Makefile-libbz2_so
+	"	59	0
+	^	1	0
+	.	38	0
+	+	38	0
+
+> ~/下载/bzip2-1.0.6/Makefile
+	"	72	0
+	^	28	0
+	.	18	0
+	+	18	6
+	+	18	0
+
+> ~/下载/bzip2-1.0.6/makefile.msc
+	"	1	0
+
+> ~/opencvSample/SVM.cpp
+	"	20	36
+	^	20	37
+	.	20	36
+	+	27	22
+	+	10	20
+	+	10	0
+	+	24	16
+	+	16	20
+	+	30	4
+	+	22	0
+	+	24	1
+	+	30	12
+	+	47	15
+	+	27	26
+	+	27	15
+	+	27	17
+	+	27	10
+	+	16	18
+	+	51	13
+	+	27	2
+	+	16	20
+	+	27	0
+	+	26	11
+	+	51	11
+	+	24	16
+	+	22	23
+	+	23	49
+	+	6	17
+	+	23	1
+	+	24	16
+	+	51	0
+	+	30	12
+	+	47	0
+	+	34	16
+	+	34	9
+	+	34	46
+	+	35	9
+	+	36	0
+	+	38	0
+	+	35	16
+	+	36	24
+	+	36	24
+	+	38	0
+	+	36	34
+	+	37	23
+	+	39	29
+	+	41	14
+	+	39	37
+	+	41	0
+	+	39	29
+	+	39	37
+	+	40	28
+	+	41	24
+	+	49	0
+	+	47	8
+	+	41	25
+	+	45	20
+	+	46	34
+	+	34	24
+	+	47	11
+	+	34	38
+	+	35	11
+	+	34	0
+	+	34	0
+	+	35	0
+	+	34	0
+	+	28	0
+	+	29	0
+	+	39	0
+	+	47	0
+	+	42	49
+	+	48	2
+	+	45	2
+	+	46	1
+	+	47	1
+	+	34	1
+	+	34	35
+	+	34	13
+	+	34	12
+	+	32	46
+	+	33	0
+	+	9	0
+	+	7	17
+	+	33	22
+	+	32	0
+	+	32	0
+	+	31	31
+	+	32	2
+	+	33	2
+	+	16	26
+	+	46	31
+	+	43	48
+	+	44	22
+	+	46	24
+	+	44	16
+	+	46	30
+	+	32	1
+	+	33	1
+	+	50	0
+	+	22	0
+	+	25	0
+	+	34	24
+	+	20	36
+	a	1	16
+
+> ~/opencvSample/data/test
+	"	1	0
+	.	2	0
+	+	2	10
+	+	2	0
+
+> ~/opencvSample/CvxText.h
+	"	1	0
+	.	2	0
+	+	1	8
+	+	1	0
+	+	1	14
+	+	1	0
+	+	1	0
+	+	2	0
+
+> ~/opencvSample/CvxText/CvxText.cpp
+	"	1	4
+
+> ~/下载/freetype-2.5.2/README
+	"	1	2
+
+> ~/下载/freetype-2.5.2/Makefile
+	"	25	0
+
+> ~/下载/freetype-2.8/README
+	"	83	0
+
+> ~/opencvSample/3
+	"	1	0
+
+> ~/NVIDIA-Linux-x86_64-381.09.run
+	"	1411	0
+
+> ~/test_face_detect/build_self/CMakeFiles/Makefile.cmake
+	"	39	32
+
+> ~/test_face_detect/CMakeLists.txt
+	"	11	47
+	^	11	48
+	.	12	0
+	+	11	48
+	+	12	0
+
+> ~/test_face_detect/main.cpp
+	"	42	2
+	^	50	4
+	.	50	3
+	+	14	42
+	+	16	3
+	+	27	0
+	+	26	3
+	+	28	3
+	+	30	3
+	+	32	3
+	+	34	3
+	+	35	3
+	+	37	3
+	+	38	3
+	+	39	3
+	+	40	3
+	+	41	3
+	+	42	3
+	+	43	3
+	+	44	3
+	+	45	3
+	+	46	3
+	+	52	3
+	+	54	3
+	+	50	3
+
+> ~/test/opencv.cpp
+	"	7	9
+	^	7	10
+	.	7	9
+	+	8	0
+	+	7	9
+
+> ~/test/CMakeLists.txt
+	"	4	0
+	.	4	0
+	+	4	0
+
+> ~/test_face_detect/build_self/main.cpp
+	"	1	0
+
+> ~/tmp/opencv.cpp
+	"	5	20
+	^	5	21
+	.	5	20
+	+	2	17
+	+	4	11
+	+	5	1
+	+	5	1
+	+	2	15
+	+	5	6
+	+	4	20
+	+	5	23
+	+	2	0
+	+	8	0
+	+	8	0
+	+	5	22
+	+	8	0
+	+	8	0
+	+	5	40
+	+	6	13
+	+	5	28
+	+	6	25
+	+	5	1
+	+	6	3
+	+	4	0
+	+	1	0
+	+	4	0
+	+	5	1
+	+	6	26
+	+	7	13
+	+	7	14
+	+	7	7
+	+	3	20
+	+	5	1
+	+	5	18
+	+	6	6
+	+	5	20
+
+> ~/tmp/CMakeLists.txt
+	"	1	0
+	^	9	15
+	.	9	14
+	+	1	10
+	+	3	6
+	+	1	28
+	+	4	18
+	+	2	16
+	+	6	28
+	+	8	17
+	+	10	11
+	+	8	11
+	+	10	11
+	+	8	11
+	+	8	17
+	+	9	14
+
+> ~/tmp/opencv
+	"	1	0
+
+> ~/test_face_detect/build_self/Makefile.cm
+	"	1	0
+
+> ~/test_face_detect/build_self/CMakeFiles/Makefile2
+	"	107	0
+
+> ~/test_face_detect/build_self/Makefile
+	"	56	0
+
+> ~/opencv-master/proj.linux/CMakeDownloadLog.txt
+	"	1	0
+
+> ~/tmp/Makefile
+	"	23	0
+
+> ~/tmp/CMakeFiles/CMakeOutput.log
+	"	335	0
+
+> ~/tmp/cmakelist.txt
+	"	2	15
+	^	2	15
+	.	2	14
+	+	3	32
+	+	2	14
+
+> ~/tmp/cmakelist.cmake
+	"	3	0
+	^	3	0
+	.	3	0
+	+	1	35
+	+	2	32
+	+	3	0
